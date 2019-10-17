@@ -1,2 +1,2 @@
 # Hackerrank
-solutions
+solutions javascript
